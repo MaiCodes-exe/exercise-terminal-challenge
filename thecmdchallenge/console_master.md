@@ -1,3 +1,4 @@
+
 * `[ls]` Print current directory path
 * `[ls -a]` List all the files from the current directory including the hidden ones
 * `[ls -R]` Now list all the files inside the workspace, recursively (all files in the hierarchy).
